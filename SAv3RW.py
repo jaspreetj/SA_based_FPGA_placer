@@ -1,4 +1,5 @@
 #Jaspreet Jhoja
+#Implementation of Ranging Windows
 
 import random,copy, statistics, timeit, threading, math
 from math import *
