@@ -1,9 +1,10 @@
 # SA based FPGA placer
 
 The basic pseudocode for the placement tool is given below:
->1: select circuit
->2: set initial placement
->3: set initial temperature and iterations
+```
+1: select circuit
+2: set initial placement
+3: set initial temperature and iterations
 4: While not exit condition do
 5:    For k iterations do
 6:        select cells to swap
@@ -22,3 +23,4 @@ The basic pseudocode for the placement tool is given below:
 20.   Update T
 21.   Update net criticality
 22.End while
+```
