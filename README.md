@@ -1,5 +1,15 @@
 # SA based FPGA placer
 
+### Objective
+
+### Design Rules
+
+### Requirements
+In order to run the program, the user is required to have the following modules installed:
+* Python 3.x
+* Matplotlib
+* Numpy
+
 The basic pseudocode for the placement tool is given below:
 ```
 1: select circuit
@@ -24,3 +34,5 @@ The basic pseudocode for the placement tool is given below:
 21.   Update net criticality
 22.End while
 ```
+
+
