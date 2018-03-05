@@ -1,4 +1,5 @@
-#Jaspreet Jhoja
+#Author: Jaspreet Jhoja
+#contact:Jaspreetj@ece.ubc.ca
 
 import random,copy, statistics, timeit, threading, math
 from math import *
